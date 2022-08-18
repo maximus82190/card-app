@@ -10,11 +10,8 @@ import 'tachyons';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <div>
-    <App/>
+    <App/>,
 
-
-  </div>,
   document.getElementById('root')
 );
 

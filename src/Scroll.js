@@ -1,11 +1,10 @@
 import React from 'react';
-import Style from './Scroll.css';
+import './Scroll.css';
 
 const Scroll = (props) => {
     return (
         <div>
-            <Style/>
-            {props.children}
+            {props.children}    
         </div>
     );
 };
