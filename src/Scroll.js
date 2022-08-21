@@ -3,7 +3,7 @@ import './Scroll.css';
 
 const Scroll = (props) => {
     return (
-        <div>
+        <div class="scrollbar">
             {props.children}    
         </div>
     );
