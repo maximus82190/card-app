@@ -1,5 +1,6 @@
 input[type='search'] {
     font-family: "Courier New";
-    font-weight: 900;
+    font-weight: 500;
     font-stretch: expanded;
+    text-align: center;
 }
